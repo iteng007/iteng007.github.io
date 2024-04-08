@@ -1,8 +1,8 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       iteng007's blog
+email:       iteng007@outlook.com
+author:      iteng007
+description: "Record for random thoughts."
 baseurl:     ""
 url:         "https://pixyll.com"
 date_format: "%b %-d, %Y"
@@ -47,7 +47,7 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: iteng007
 reddit_username:
 bitbucket_username:
 stackoverflow_id:
